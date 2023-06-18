@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Dina Finkel");
 		System.out.println("dinafinkel1@mail.com");
+		int x = 8;
 	
 	}
 
